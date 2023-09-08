@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.deba4259.css",
+    "main.js": "/static/js/main.e592fffc.js",
+    "static/js/787.de17a8ee.chunk.js": "/static/js/787.de17a8ee.chunk.js",
+    "static/media/FinancialService.jpg": "/static/media/FinancialService.597bf8e61e8a60071f70.jpg",
+    "static/media/Evolving_Technology.mp4": "/static/media/Evolving_Technology.7ddf9b0fd0b9b88a562a.mp4",
+    "static/media/staffagm1.mp4": "/static/media/staffagm1.8732d6afd161105620bc.mp4",
+    "static/media/Staff_agm.jpg": "/static/media/Staff_agm.43aa72ff0228b2d94518.jpg",
+    "static/media/Human_Connections.jpg": "/static/media/Human_Connections.f042bc455bd4f7babff1.jpg",
+    "static/media/recruiting.jpg": "/static/media/recruiting.9c80d3b74b12ee557b88.jpg",
+    "static/media/TalentDev.jpg": "/static/media/TalentDev.2096e571ef08df29d488.jpg",
+    "static/media/global-business.avif": "/static/media/global-business.7e6abc47cb28fe97848a.avif",
+    "index.html": "/index.html",
+    "main.deba4259.css.map": "/static/css/main.deba4259.css.map",
+    "main.e592fffc.js.map": "/static/js/main.e592fffc.js.map",
+    "787.de17a8ee.chunk.js.map": "/static/js/787.de17a8ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deba4259.css",
+    "static/js/main.e592fffc.js"
+  ]
+}
